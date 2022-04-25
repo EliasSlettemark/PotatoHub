@@ -1,2 +1,2 @@
 # PotatoHub
-PotatoHub is a website where you can view photos and videos of potatoes.
+PotatoHub is a website where you can view videos and photos of potatoes.
